@@ -1,3 +1,12 @@
 body{
     background-color: rgb(188, 172, 151);
 }
+
+div#cabecalho{
+    background-color: rgb(75, 177, 195);
+}
+
+div#curriculo{
+    background-color: violet;
+}
+
